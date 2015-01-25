@@ -20,6 +20,7 @@
     'type' : 'executable',
   },
   'targets': [
-    { 'target_name': 'alarm', 'sources': [ 'src/alarm.c' ] }
+    { 'target_name': '01_alarm'      , 'sources': [ 'src/01_alarm.c' ] },
+    { 'target_name': '02_alarm_fork' , 'sources': [ 'src/02_alarm_fork.c' ] },
   ]
 }
