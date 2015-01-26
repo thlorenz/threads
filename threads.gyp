@@ -7,5 +7,6 @@
     { 'target_name': '04_thread_error'  , 'sources': [ 'src/04_thread_error.c' ] }  ,
     { 'target_name': '05_lifecycle'     , 'sources': [ 'src/05_lifecycle.c' ] }     ,
     { 'target_name': '06_mutex_dynamic' , 'sources': [ 'src/06_mutex_dynamic.c' ] } ,
+    { 'target_name': '07_alarm_mutex'   , 'sources': [ 'src/07_alarm_mutex.c' ] }   ,
   ]
 }
