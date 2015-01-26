@@ -10,5 +10,6 @@
     { 'target_name': '07_alarm_mutex'   , 'sources': [ 'src/07_alarm_mutex.c' ] }   ,
     { 'target_name': '08_try_lock'      , 'sources': [ 'src/08_try_lock.c' ] }      ,
     { 'target_name': '09_backoff'       , 'sources': [ 'src/09_backoff.c' ] }       ,
+    { 'target_name': '10_cond'          , 'sources': [ 'src/10_cond.c' ] }          ,
   ]
 }
