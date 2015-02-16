@@ -13,8 +13,8 @@
       }],
     ],
 
-    'include_dirs': [ 'src' ],
-    'sources': [ 'src/errors.h' ],
+    'include_dirs': [ 'src/prog-with-posix-threads' ],
+    'sources': [ 'src/prog-with-posix-threads/errors.h' ],
     'xcode_settings': {
       'MACOSX_DEPLOYMENT_TARGET': '10.7',
     },
