@@ -12,5 +12,6 @@
     { 'target_name': '09_backoff'       , 'sources': [ 'src/prog-with-posix-threads/09_backoff.c' ] }       ,
     { 'target_name': '10_cond'          , 'sources': [ 'src/prog-with-posix-threads/10_cond.c' ] }          ,
     { 'target_name': '11_alarm_cond'    , 'sources': [ 'src/prog-with-posix-threads/11_alarm_cond.c' ] }    ,
+    { 'target_name': 'sigprof'          , 'sources': [ 'src/sigprof.cc' ] }                                 ,
   ]
 }
